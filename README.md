@@ -11,7 +11,7 @@ Este projeto utiliza Docker Compose para configurar um ambiente com os seguintes
 - [Docker](https://www.docker.com/products/docker-desktop) instalado.
 - [Docker Compose](https://docs.docker.com/compose/install/) instalado.
 
-> **Nota**
+> **Nota:**
 > Certifique-se de que as portas `5432`, `8000`, `8001`, `8443`, `8444` e `1337` estejam livres em sua máquina antes de iniciar os containers.
 
 ## **Estrutura do Projeto**
